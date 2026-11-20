@@ -10,8 +10,8 @@ tester portal. Use a dedicated low-balance test account; never upload credential
 ## Install and update
 
 Download the Windows desktop + CLI or CLI-only ZIP from **Releases**, extract it completely,
-and follow `LEEME-README.html`. Python and dependencies are included. Alpha9 introduces the
-updater and requires one manual installation. From then on, open **Updates → Check for updates**.
+and follow `LEEME-README.html`. Python and dependencies are included. The first updater-enabled
+release requires one manual installation. From then on, open **Updates → Check for updates**.
 
 There is one channel: **testers**. Checks are manual by default; optional six-hour checks run
 while the GUI is open. Installation always requires your action. CPU Link verifies an Ed25519
@@ -32,7 +32,7 @@ the verification key pinned in the application is:
 ## Español
 
 Descarga el ZIP de Windows en **Releases**, extráelo por completo y abre `LEEME-README.html`.
-Alpha9 se instala manualmente una vez; después puedes buscar actualizaciones desde CPU Link.
+La versión con actualizador se instala manualmente una vez; después puedes buscar actualizaciones desde CPU Link.
 Solo existe el canal de testers. Las búsquedas periódicas son opcionales y la instalación
 siempre requiere tu acción. Reconecta tu IA cuando termine.
 
